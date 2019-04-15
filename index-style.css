@@ -1,18 +1,19 @@
 body {
   background-image: url(https://cdn-images-1.medium.com/max/2000/1*SrKM-X_AZQLQo7RaLzMK7A.jpeg);
-  background-size: cover;
+  background-size: auto;
+  background-position: top;
 }
 h1 {
-  font-size: 60px;
+  font-size: 430%;
   font-family: monospace;
-  padding: 5px 5px;
+  padding: 0.1% 0.1%;
   background: gray;
-  width: 700px;
+  width: 38%;
   text-align: center;
   border-radius: 12px;
   margin: 0 auto;
-  margin-top: 260px;
-  size: 200px;
+  margin-top: 14%;
+  size: 200%;
   cursor: default;
   color: #4769ff;
   background-color: #282b30;
@@ -20,20 +21,20 @@ h1 {
 }
 .container {
   text-align: center;
-  margin-top: 180px;
+  margin-top: 10%;
 }
 .btn {
-  border: 3px solid #282b30;
+  border: 5px solid #282b30;
   background: none;
-  padding: 10px, 20px;
-  font-size: 34px;
+  padding: 5%, 10%;
+  font-size: 260%;
   font-family: monospace;
-  font-weight: 500;
+  font-weight: 500%;
   cursor: pointer;
-  margin: 10px;
+  margin: 2%;
   position: relative;
   overflow: hidden;
-  border-radius: 8px;
+  border-radius: 10px;
 }
 .btn1 {
   color: #fff;
